@@ -1,0 +1,55 @@
+body {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.main {
+    background: url('../img/streetWear2.jpg');
+    background-size: cover;
+    height: 100vh;
+    background-position: 50% 50%;
+    width: 100%;
+}
+
+.main h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: white;
+}
+
+.btn1 {
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color: #e3edf0;
+    color: black;
+    font-weight: 700;
+    border-radius: 60px;
+}
+
+.btn1:hover {
+    background-color: #c8e1e9;
+    transition: 0.5s;
+}
+
+.subProduct {
+    color: rgb(163 163 163);
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.card:hover {
+    box-shadow: -2px -1px 25px -4px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -2px -1px 25px -4px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -2px -1px 25px -4px rgba(0, 0, 0, 0.75);
+    transition: 0.5s;
+}
+
+.apple {
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('../img/Outfit-5.jpg') no-repeat;
+    background-size: cover;
+    height: 90vh;
+    width: 100%;
+}
